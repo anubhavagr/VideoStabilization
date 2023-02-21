@@ -14,7 +14,7 @@ Now, the above camera trajectory will be wobbly and needs to be smoothened. This
 
 Finally a cropped region of the video is outputted where the cropped region box follows a trajectory that smoothens the output.
 
-## How To
+## How To Use
 
 * Run:
 

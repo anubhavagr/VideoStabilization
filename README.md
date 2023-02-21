@@ -30,7 +30,7 @@ OR
 bar@foo:~/VideoStabilization$ bash script.sh <video_file_path> <Displacement_threshold_pixels>
 ```
 
-Ex-
+Example-
 
 ```bash
 bar@foo:~/VideoStabilization$ bash script.sh sampleVideos/vid1.mp4 30
